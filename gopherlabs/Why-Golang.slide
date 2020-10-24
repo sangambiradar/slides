@@ -27,4 +27,15 @@ http://gopherlabs.kubedaily.com
 - Robert Griesemer ( Hotspot , JVM  )
 - and Few other engineers from Google 
 
-# Go was invented by Geniuses
+Go was invented by Geniuses
+
+
+
+- Performant
+- multiple-cores 
+- concurrency 
+- compiled network
+- clean syntax 
+- powerful standard library 
+- garbage collected
+- portable compiles on many OS’s 

@@ -5,6 +5,6 @@
   
   * Lets Start With First Hello world Program 
   
-  .play   ./hello_world/main.go 
+  .play  hello_world.go 
   
  
